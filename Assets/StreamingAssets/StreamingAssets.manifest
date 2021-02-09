@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1704666461
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bg.cn
+      Dependencies: {}
+    Info_1:
+      Name: bg.en
+      Dependencies: {}
+    Info_2:
+      Name: ui
+      Dependencies:
+        Dependency_0: bg.en
